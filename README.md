@@ -7,4 +7,5 @@
 - Git clone repo
 - cd into repo
 - run 'nvm install'
+- run 'yarn'
 - run 'yarn start'
