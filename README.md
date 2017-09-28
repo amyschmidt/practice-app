@@ -9,3 +9,5 @@
 - run 'nvm install'
 - run 'yarn'
 - run 'yarn start'
+
+- go to http://localhost:3000 
